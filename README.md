@@ -1,2 +1,2 @@
-# Deep-Learning-Python
-Python Deep Learning Projects
+# Deep Learning- Python 
+This repo contains the amazing projects I've created in the Deep learning domain using Python
